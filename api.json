@@ -1,8 +1,7 @@
 {
-    "clientVersionCode": 6,
-    "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "http://191.96.92.119/squarestudio/game.rar",
-    "URL_GAME_FILES_UPD" : "http://191.96.92.119/squarestudio/files_upd.rar",
-    "URL_FORUM": "http://191.96.92.119/",
-    "URL_CLIENT": "http://191.96.92.119/squarestudio/launcher.apk"
+    "clientVersionCode": 1,
+    "gameFilesVersionCode": 7,
+    "URL_GAME_FILES" : "http://141.11.159.184/api/game.zip",
+    "URL_GAME_FILES_UPD" : "http://141.11.159.184/api/newjersey_",
+    "URL_CLIENT": "http://141.11.159.184/api/launcher.apk"
 }
