@@ -1,7 +1,8 @@
 {
     "clientVersionCode": 1,
-    "gameFilesVersionCode": 7,
+    "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : "http://141.11.159.184/api/game.zip",
     "URL_GAME_FILES_UPD" : "http://141.11.159.184/api/newjersey_",
     "URL_CLIENT": "http://141.11.159.184/api/launcher.apk"
+    "URL_CLIENT_SAMPAPK": "http://141.11.159.184/api/launcher.apk"
 }
